@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=SFP_3V3 Pin=CN2-7
+Removed Pin From Net: NetName=SFP0_TXN Pin=CN2-10
+Removed Pin From Net: NetName=P0_HSIP Pin=CN2-11
+Change Component DesignItemId : Designator=CN1 Old DesignItemId= New DesignItemId=TH_HC-SFP-01L
+Change Component DesignItemId : Designator=CN2 Old DesignItemId= New DesignItemId=TH_HC-SFP-01L
+Change Component Comment : Designator=CN1 Old Comment=HC-SFP-01L New Comment=TH_HC-SFP-01L
+Change Component Comment : Designator=CN2 Old Comment=HC-SFP-01L New Comment=TH_HC-SFP-01L
+Added Pin To Net: NetName=AGND Pin=CN1-1
+Added Pin To Net: NetName=AGND Pin=CN1-2
+Added Pin To Net: NetName=AGND Pin=CN1-3
+Added Pin To Net: NetName=AGND Pin=CN1-4
+Added Pin To Net: NetName=AGND Pin=CN1-5
+Added Pin To Net: NetName=AGND Pin=CN1-6
+Added Pin To Net: NetName=AGND Pin=CN1-7
+Added Pin To Net: NetName=AGND Pin=CN1-8
+Added Pin To Net: NetName=AGND Pin=CN1-9
+Added Pin To Net: NetName=AGND Pin=CN1-10
+Added Pin To Net: NetName=AGND Pin=CN1-11
+Added Pin To Net: NetName=AGND Pin=CN1-12
+Added Pin To Net: NetName=AGND Pin=CN1-13
+Added Pin To Net: NetName=AGND Pin=CN1-14
+Added Pin To Net: NetName=AGND Pin=CN1-15
+Added Pin To Net: NetName=AGND Pin=CN1-16
+Added Pin To Net: NetName=AGND Pin=CN1-17
+Added Pin To Net: NetName=AGND Pin=CN1-18
+Added Pin To Net: NetName=AGND Pin=CN1-19
+Added Pin To Net: NetName=AGND Pin=CN1-20
+Added Pin To Net: NetName=AGND Pin=CN2-7
+Added Pin To Net: NetName=AGND Pin=CN2-10
+Added Pin To Net: NetName=AGND Pin=CN2-11

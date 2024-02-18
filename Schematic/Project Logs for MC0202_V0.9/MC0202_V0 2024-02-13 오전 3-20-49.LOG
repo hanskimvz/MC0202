@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=SFP_3V3 Pin=C57-2
+Removed Pin From Net: NetName=SFP_3V3 Pin=C58-2
+Removed Pin From Net: NetName=SFP_3V3 Pin=J3-1
+Removed Pin From Net: NetName=SFP_3V3 Pin=J4-15
+Removed Pin From Net: NetName=SFP_3V3 Pin=J4-16
+Removed Pin From Net: NetName=SFP_3V3 Pin=R32-2
+Removed Pin From Net: NetName=SFP_3V3 Pin=R36-2
+Removed Pin From Net: NetName=SFP_3V3 Pin=R51-2
+Removed Pin From Net: NetName=SFP_3V3 Pin=R52-2
+Removed Pin From Net: NetName=SFP_3V3 Pin=R53-2
+Removed Pin From Net: NetName=SFP_3V3 Pin=R54-2
+Removed Pin From Net: NetName=SFP_3V3 Pin=R55-2
+Change Component Footprint: Designator=FB1 Old Footprint=LS-2012 New Footprint=LS-1608
+Added Component: Designator=FB3(LS-1608)
+Added Pin To Net: NetName=+3.3V Pin=FB3-1
+Change Net Name : Old Net Name=SFP_3V3 New Net Name=SFP_3V3A
+Added Pin To Net: NetName=SFP_3V3B Pin=C57-2
+Added Pin To Net: NetName=SFP_3V3B Pin=C58-2
+Added Pin To Net: NetName=SFP_3V3B Pin=FB3-2
+Added Pin To Net: NetName=SFP_3V3B Pin=J3-1
+Added Pin To Net: NetName=SFP_3V3B Pin=J4-15
+Added Pin To Net: NetName=SFP_3V3B Pin=J4-16
+Added Pin To Net: NetName=SFP_3V3B Pin=R32-2
+Added Pin To Net: NetName=SFP_3V3B Pin=R36-2
+Added Pin To Net: NetName=SFP_3V3B Pin=R51-2
+Added Pin To Net: NetName=SFP_3V3B Pin=R52-2
+Added Pin To Net: NetName=SFP_3V3B Pin=R53-2
+Added Pin To Net: NetName=SFP_3V3B Pin=R54-2
+Added Pin To Net: NetName=SFP_3V3B Pin=R55-2
+Added Net: Name=SFP_3V3B

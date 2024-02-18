@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=N04286 Pin=FB2-2
+Change Component DesignItemId : Designator=FB2 Old DesignItemId=600 New DesignItemId=60
+Change Component Comment : Designator=FB2 Old Comment=600 New Comment=60
+Added Component: Designator=C80(CS-1608)
+Added Component: Designator=C81(CS-1608)
+Added Component: Designator=C82(CS-1608)
+Added Component: Designator=D1(SOD-106)
+Added Component: Designator=J10(Header_2.54_3p)
+Added Component: Designator=J11(Header_2.54_2p)
+Added Pin To Net: NetName=GND Pin=C69-2
+Added Pin To Net: NetName=GND Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C73-2
+Added Pin To Net: NetName=GND Pin=C74-2
+Added Pin To Net: NetName=N04319 Pin=C80-1
+Added Pin To Net: NetName=GND Pin=C80-2
+Added Pin To Net: NetName=N04319 Pin=C81-1
+Added Pin To Net: NetName=GND Pin=C81-2
+Added Pin To Net: NetName=GND Pin=C82-2
+Added Pin To Net: NetName=GND Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=GND Pin=CN1-3
+Added Pin To Net: NetName=GND Pin=CN1-4
+Added Pin To Net: NetName=GND Pin=CN1-5
+Added Pin To Net: NetName=GND Pin=CN1-6
+Added Pin To Net: NetName=GND Pin=CN1-7
+Added Pin To Net: NetName=GND Pin=CN1-8
+Added Pin To Net: NetName=GND Pin=CN1-9
+Added Pin To Net: NetName=GND Pin=CN1-10
+Added Pin To Net: NetName=GND Pin=CN1-11
+Added Pin To Net: NetName=GND Pin=CN1-12
+Added Pin To Net: NetName=GND Pin=CN1-13
+Added Pin To Net: NetName=GND Pin=CN1-14
+Added Pin To Net: NetName=GND Pin=CN1-15
+Added Pin To Net: NetName=GND Pin=CN1-16
+Added Pin To Net: NetName=GND Pin=CN1-17
+Added Pin To Net: NetName=GND Pin=CN1-18
+Added Pin To Net: NetName=GND Pin=CN1-19
+Added Pin To Net: NetName=GND Pin=CN1-20
+Added Pin To Net: NetName=GND Pin=CN2-1
+Added Pin To Net: NetName=GND Pin=CN2-2
+Added Pin To Net: NetName=GND Pin=CN2-3
+Added Pin To Net: NetName=GND Pin=CN2-4
+Added Pin To Net: NetName=GND Pin=CN2-5
+Added Pin To Net: NetName=GND Pin=CN2-6
+Added Pin To Net: NetName=GND Pin=CN2-7
+Added Pin To Net: NetName=GND Pin=CN2-8
+Added Pin To Net: NetName=GND Pin=CN2-9
+Added Pin To Net: NetName=GND Pin=CN2-10
+Added Pin To Net: NetName=GND Pin=CN2-11
+Added Pin To Net: NetName=GND Pin=CN2-12
+Added Pin To Net: NetName=GND Pin=CN2-13
+Added Pin To Net: NetName=GND Pin=CN2-14
+Added Pin To Net: NetName=GND Pin=CN2-15
+Added Pin To Net: NetName=GND Pin=CN2-16
+Added Pin To Net: NetName=GND Pin=CN2-17
+Added Pin To Net: NetName=GND Pin=CN2-18
+Added Pin To Net: NetName=GND Pin=CN2-19
+Added Pin To Net: NetName=GND Pin=CN2-20
+Added Pin To Net: NetName=N04286 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=J5-13
+Added Pin To Net: NetName=GND Pin=J5-14
+Added Pin To Net: NetName=GND Pin=J6-13
+Added Pin To Net: NetName=GND Pin=J6-14
+Added Pin To Net: NetName=GND Pin=J7-13
+Added Pin To Net: NetName=GND Pin=J7-14
+Added Pin To Net: NetName=GND Pin=J8-13
+Added Pin To Net: NetName=GND Pin=J8-14
+Added Pin To Net: NetName=URXD Pin=J10-1
+Added Pin To Net: NetName=UTXD Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=HUB_RST Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Change Net Name : Old Net Name=GND New Net Name=AGND
+Added Pin To Net: NetName=N88350 Pin=C82-1
+Added Pin To Net: NetName=N88350 Pin=D1-1
+Added Pin To Net: NetName=N88350 Pin=FB2-2
+Added Net: Name=N88350
