@@ -1,0 +1,1278 @@
+Removed Pin From Net: NetName=P0_1V Pin=BC1-1
+Removed Pin From Net: NetName=AGND Pin=BC1-2
+Removed Pin From Net: NetName=P0_1V Pin=BC2-1
+Removed Pin From Net: NetName=AGND Pin=BC2-2
+Removed Pin From Net: NetName=+3.3V Pin=BC3-1
+Removed Pin From Net: NetName=AGND Pin=BC3-2
+Removed Pin From Net: NetName=+3.3V Pin=BC4-1
+Removed Pin From Net: NetName=AGND Pin=BC4-2
+Removed Pin From Net: NetName=+3.3V Pin=BC5-1
+Removed Pin From Net: NetName=AGND Pin=BC5-2
+Removed Pin From Net: NetName=+3.3V Pin=BC6-1
+Removed Pin From Net: NetName=AGND Pin=BC6-2
+Removed Pin From Net: NetName=+3.3V Pin=BC7-1
+Removed Pin From Net: NetName=AGND Pin=BC7-2
+Removed Pin From Net: NetName=P0_1V Pin=BC8-1
+Removed Pin From Net: NetName=AGND Pin=BC8-2
+Removed Pin From Net: NetName=P0_1V Pin=BC9-1
+Removed Pin From Net: NetName=AGND Pin=BC9-2
+Removed Pin From Net: NetName=P0_1V Pin=BC10-1
+Removed Pin From Net: NetName=AGND Pin=BC10-2
+Removed Pin From Net: NetName=P0_1V Pin=BC11-1
+Removed Pin From Net: NetName=AGND Pin=BC11-2
+Removed Pin From Net: NetName=P0_1V Pin=BC12-1
+Removed Pin From Net: NetName=AGND Pin=BC12-2
+Removed Pin From Net: NetName=P0_1V Pin=BC13-1
+Removed Pin From Net: NetName=AGND Pin=BC13-2
+Removed Pin From Net: NetName=P1_1V Pin=BC14-1
+Removed Pin From Net: NetName=AGND Pin=BC14-2
+Removed Pin From Net: NetName=P1_1V Pin=BC15-1
+Removed Pin From Net: NetName=AGND Pin=BC15-2
+Removed Pin From Net: NetName=+3.3V Pin=BC16-1
+Removed Pin From Net: NetName=AGND Pin=BC16-2
+Removed Pin From Net: NetName=+3.3V Pin=BC17-1
+Removed Pin From Net: NetName=AGND Pin=BC17-2
+Removed Pin From Net: NetName=+3.3V Pin=BC18-1
+Removed Pin From Net: NetName=AGND Pin=BC18-2
+Removed Pin From Net: NetName=+3.3V Pin=BC19-1
+Removed Pin From Net: NetName=AGND Pin=BC19-2
+Removed Pin From Net: NetName=+3.3V Pin=BC20-1
+Removed Pin From Net: NetName=AGND Pin=BC20-2
+Removed Pin From Net: NetName=P1_1V Pin=BC21-1
+Removed Pin From Net: NetName=AGND Pin=BC21-2
+Removed Pin From Net: NetName=P1_1V Pin=BC22-1
+Removed Pin From Net: NetName=AGND Pin=BC22-2
+Removed Pin From Net: NetName=P1_1V Pin=BC23-1
+Removed Pin From Net: NetName=AGND Pin=BC23-2
+Removed Pin From Net: NetName=P1_1V Pin=BC24-1
+Removed Pin From Net: NetName=AGND Pin=BC24-2
+Removed Pin From Net: NetName=P1_1V Pin=BC25-1
+Removed Pin From Net: NetName=AGND Pin=BC25-2
+Removed Pin From Net: NetName=P1_1V Pin=BC26-1
+Removed Pin From Net: NetName=AGND Pin=BC26-2
+Removed Pin From Net: NetName=AGND Pin=BC27-1
+Removed Pin From Net: NetName=SFP_3V3A Pin=BC27-2
+Removed Pin From Net: NetName=AGND Pin=BC28-1
+Removed Pin From Net: NetName=SFP_3V3A Pin=BC28-2
+Removed Pin From Net: NetName=AGND Pin=BC29-1
+Removed Pin From Net: NetName=SFP_3V3B Pin=BC29-2
+Removed Pin From Net: NetName=AGND Pin=BC30-1
+Removed Pin From Net: NetName=SFP_3V3B Pin=BC30-2
+Removed Pin From Net: NetName=P0_XTAL_I Pin=C1-1
+Removed Pin From Net: NetName=AGND Pin=C1-2
+Removed Pin From Net: NetName=P0_RST Pin=C2-1
+Removed Pin From Net: NetName=AGND Pin=C2-2
+Removed Pin From Net: NetName=P0_XTAL_O Pin=C3-1
+Removed Pin From Net: NetName=AGND Pin=C3-2
+Removed Pin From Net: NetName=P1_XTAL_I Pin=C4-1
+Removed Pin From Net: NetName=AGND Pin=C4-2
+Removed Pin From Net: NetName=P1_XTAL_O Pin=C5-1
+Removed Pin From Net: NetName=AGND Pin=C5-2
+Removed Pin From Net: NetName=P1_RST Pin=C6-1
+Removed Pin From Net: NetName=AGND Pin=C6-2
+Removed Pin From Net: NetName=SFP0_TXN Pin=C7-1
+Removed Pin From Net: NetName=P0_HSON Pin=C7-2
+Removed Pin From Net: NetName=SFP1_TXN Pin=C8-1
+Removed Pin From Net: NetName=P1_HSON Pin=C8-2
+Removed Pin From Net: NetName=SFP0_TXP Pin=C9-1
+Removed Pin From Net: NetName=P0_HSOP Pin=C9-2
+Removed Pin From Net: NetName=SFP1_TXP Pin=C10-1
+Removed Pin From Net: NetName=P1_HSOP Pin=C10-2
+Removed Pin From Net: NetName=SFP0_RXP Pin=C11-1
+Removed Pin From Net: NetName=P0_HSIP Pin=C11-2
+Removed Pin From Net: NetName=SFP1_RXP Pin=C12-1
+Removed Pin From Net: NetName=P1_HSIP Pin=C12-2
+Removed Pin From Net: NetName=SFP0_RXN Pin=C13-1
+Removed Pin From Net: NetName=P0_HSIN Pin=C13-2
+Removed Pin From Net: NetName=SFP1_RXN Pin=C14-1
+Removed Pin From Net: NetName=P1_HSIN Pin=C14-2
+Removed Pin From Net: NetName=N04319 Pin=C19-1
+Removed Pin From Net: NetName=AGND Pin=C19-2
+Removed Pin From Net: NetName=N04319 Pin=C20-1
+Removed Pin From Net: NetName=AGND Pin=C20-2
+Removed Pin From Net: NetName=N88350 Pin=C21-1
+Removed Pin From Net: NetName=AGND Pin=C21-2
+Removed Pin From Net: NetName=+3.3V Pin=C22-1
+Removed Pin From Net: NetName=AGND Pin=C22-2
+Removed Pin From Net: NetName=+3.3V Pin=C23-1
+Removed Pin From Net: NetName=AGND Pin=C23-2
+Removed Pin From Net: NetName=+3.3V Pin=C24-1
+Removed Pin From Net: NetName=AGND Pin=C24-2
+Removed Pin From Net: NetName=N04286 Pin=C25-1
+Removed Pin From Net: NetName=AGND Pin=C25-2
+Removed Pin From Net: NetName=N04286 Pin=C26-1
+Removed Pin From Net: NetName=AGND Pin=C26-2
+Removed Pin From Net: NetName=AGND Pin=C27-1
+Removed Pin From Net: NetName=N117614 Pin=C27-2
+Removed Pin From Net: NetName=AGND Pin=C28-1
+Removed Pin From Net: NetName=N118028 Pin=C28-2
+Removed Pin From Net: NetName=AGND Pin=CN1-1
+Removed Pin From Net: NetName=AGND Pin=CN1-2
+Removed Pin From Net: NetName=AGND Pin=CN1-3
+Removed Pin From Net: NetName=AGND Pin=CN1-4
+Removed Pin From Net: NetName=AGND Pin=CN1-5
+Removed Pin From Net: NetName=AGND Pin=CN1-6
+Removed Pin From Net: NetName=AGND Pin=CN1-7
+Removed Pin From Net: NetName=AGND Pin=CN1-8
+Removed Pin From Net: NetName=AGND Pin=CN1-9
+Removed Pin From Net: NetName=AGND Pin=CN1-10
+Removed Pin From Net: NetName=AGND Pin=CN1-11
+Removed Pin From Net: NetName=AGND Pin=CN1-12
+Removed Pin From Net: NetName=AGND Pin=CN1-13
+Removed Pin From Net: NetName=AGND Pin=CN1-14
+Removed Pin From Net: NetName=AGND Pin=CN1-15
+Removed Pin From Net: NetName=AGND Pin=CN1-16
+Removed Pin From Net: NetName=AGND Pin=CN1-17
+Removed Pin From Net: NetName=AGND Pin=CN1-18
+Removed Pin From Net: NetName=AGND Pin=CN1-19
+Removed Pin From Net: NetName=AGND Pin=CN1-20
+Removed Pin From Net: NetName=AGND Pin=CN2-1
+Removed Pin From Net: NetName=AGND Pin=CN2-2
+Removed Pin From Net: NetName=AGND Pin=CN2-3
+Removed Pin From Net: NetName=AGND Pin=CN2-4
+Removed Pin From Net: NetName=AGND Pin=CN2-5
+Removed Pin From Net: NetName=AGND Pin=CN2-6
+Removed Pin From Net: NetName=AGND Pin=CN2-7
+Removed Pin From Net: NetName=AGND Pin=CN2-8
+Removed Pin From Net: NetName=AGND Pin=CN2-9
+Removed Pin From Net: NetName=AGND Pin=CN2-10
+Removed Pin From Net: NetName=AGND Pin=CN2-11
+Removed Pin From Net: NetName=AGND Pin=CN2-12
+Removed Pin From Net: NetName=AGND Pin=CN2-13
+Removed Pin From Net: NetName=AGND Pin=CN2-14
+Removed Pin From Net: NetName=AGND Pin=CN2-15
+Removed Pin From Net: NetName=AGND Pin=CN2-16
+Removed Pin From Net: NetName=AGND Pin=CN2-17
+Removed Pin From Net: NetName=AGND Pin=CN2-18
+Removed Pin From Net: NetName=AGND Pin=CN2-19
+Removed Pin From Net: NetName=AGND Pin=CN2-20
+Removed Pin From Net: NetName=N88350 Pin=D1-1
+Removed Pin From Net: NetName=N04286 Pin=D1-2
+Removed Pin From Net: NetName=+3.3V Pin=FB1-1
+Removed Pin From Net: NetName=SFP_3V3A Pin=FB1-2
+Removed Pin From Net: NetName=+3.3V Pin=FB2-1
+Removed Pin From Net: NetName=SFP_3V3B Pin=FB2-2
+Removed Pin From Net: NetName=N04319 Pin=FB3-1
+Removed Pin From Net: NetName=N88350 Pin=FB3-2
+Removed Pin From Net: NetName=SFP_3V3A Pin=J1-1
+Removed Pin From Net: NetName=N20626 Pin=J1-2
+Removed Pin From Net: NetName=N20630 Pin=J1-3
+Removed Pin From Net: NetName=N20636 Pin=J1-4
+Removed Pin From Net: NetName=N20642 Pin=J1-5
+Removed Pin From Net: NetName=N20648 Pin=J1-6
+Removed Pin From Net: NetName=N20654 Pin=J1-7
+Removed Pin From Net: NetName=N20660 Pin=J1-8
+Removed Pin From Net: NetName=AGND Pin=J1-9
+Removed Pin From Net: NetName=AGND Pin=J1-10
+Removed Pin From Net: NetName=AGND Pin=J2-1
+Removed Pin From Net: NetName=N20626 Pin=J2-2
+Removed Pin From Net: NetName=N20630 Pin=J2-3
+Removed Pin From Net: NetName=N20636 Pin=J2-4
+Removed Pin From Net: NetName=N20642 Pin=J2-5
+Removed Pin From Net: NetName=N20648 Pin=J2-6
+Removed Pin From Net: NetName=N20654 Pin=J2-7
+Removed Pin From Net: NetName=N20660 Pin=J2-8
+Removed Pin From Net: NetName=AGND Pin=J2-9
+Removed Pin From Net: NetName=AGND Pin=J2-10
+Removed Pin From Net: NetName=AGND Pin=J2-11
+Removed Pin From Net: NetName=SFP0_RXN Pin=J2-12
+Removed Pin From Net: NetName=SFP0_RXP Pin=J2-13
+Removed Pin From Net: NetName=AGND Pin=J2-14
+Removed Pin From Net: NetName=SFP_3V3A Pin=J2-15
+Removed Pin From Net: NetName=SFP_3V3A Pin=J2-16
+Removed Pin From Net: NetName=AGND Pin=J2-17
+Removed Pin From Net: NetName=SFP0_TXP Pin=J2-18
+Removed Pin From Net: NetName=SFP0_TXN Pin=J2-19
+Removed Pin From Net: NetName=AGND Pin=J2-20
+Removed Pin From Net: NetName=SFP_3V3B Pin=J3-1
+Removed Pin From Net: NetName=N22123 Pin=J3-2
+Removed Pin From Net: NetName=N22159 Pin=J3-3
+Removed Pin From Net: NetName=N22131 Pin=J3-4
+Removed Pin From Net: NetName=N22135 Pin=J3-5
+Removed Pin From Net: NetName=N22139 Pin=J3-6
+Removed Pin From Net: NetName=N22191 Pin=J3-7
+Removed Pin From Net: NetName=N22147 Pin=J3-8
+Removed Pin From Net: NetName=AGND Pin=J3-9
+Removed Pin From Net: NetName=AGND Pin=J3-10
+Removed Pin From Net: NetName=AGND Pin=J4-1
+Removed Pin From Net: NetName=N22123 Pin=J4-2
+Removed Pin From Net: NetName=N22159 Pin=J4-3
+Removed Pin From Net: NetName=N22131 Pin=J4-4
+Removed Pin From Net: NetName=N22135 Pin=J4-5
+Removed Pin From Net: NetName=N22139 Pin=J4-6
+Removed Pin From Net: NetName=N22191 Pin=J4-7
+Removed Pin From Net: NetName=N22147 Pin=J4-8
+Removed Pin From Net: NetName=AGND Pin=J4-9
+Removed Pin From Net: NetName=AGND Pin=J4-10
+Removed Pin From Net: NetName=AGND Pin=J4-11
+Removed Pin From Net: NetName=SFP1_RXN Pin=J4-12
+Removed Pin From Net: NetName=SFP1_RXP Pin=J4-13
+Removed Pin From Net: NetName=AGND Pin=J4-14
+Removed Pin From Net: NetName=SFP_3V3B Pin=J4-15
+Removed Pin From Net: NetName=SFP_3V3B Pin=J4-16
+Removed Pin From Net: NetName=AGND Pin=J4-17
+Removed Pin From Net: NetName=SFP1_TXP Pin=J4-18
+Removed Pin From Net: NetName=SFP1_TXN Pin=J4-19
+Removed Pin From Net: NetName=AGND Pin=J4-20
+Removed Pin From Net: NetName=N118028 Pin=J6-1
+Removed Pin From Net: NetName=P1_ETH_AP Pin=J6-2
+Removed Pin From Net: NetName=P1_ETH_AN Pin=J6-3
+Removed Pin From Net: NetName=P1_ETH_BP Pin=J6-4
+Removed Pin From Net: NetName=P1_ETH_CP Pin=J6-5
+Removed Pin From Net: NetName=P1_ETH_CN Pin=J6-6
+Removed Pin From Net: NetName=P1_ETH_BN Pin=J6-7
+Removed Pin From Net: NetName=P1_ETH_DP Pin=J6-8
+Removed Pin From Net: NetName=P1_ETH_DN Pin=J6-9
+Removed Pin From Net: NetName=AGND Pin=J6-10
+Removed Pin From Net: NetName=+3.3V Pin=J6-11
+Removed Pin From Net: NetName=N116614 Pin=J6-12
+Removed Pin From Net: NetName=+3.3V Pin=J6-13
+Removed Pin From Net: NetName=N116618 Pin=J6-14
+Removed Pin From Net: NetName=AGND Pin=J6-M1
+Removed Pin From Net: NetName=AGND Pin=J6-M2
+Removed Pin From Net: NetName=AGND Pin=J7-1
+Removed Pin From Net: NetName=N04319 Pin=J7-3
+Removed Pin From Net: NetName=P1_1V Pin=L2-1
+Removed Pin From Net: NetName=N96633 Pin=L2-2
+Removed Pin From Net: NetName=+3.3V Pin=L3-1
+Removed Pin From Net: NetName=N03411 Pin=L3-2
+Removed Pin From Net: NetName=N052690 Pin=LD1-1
+Removed Pin From Net: NetName=P0_AUTOLOAD Pin=LD1-2
+Removed Pin From Net: NetName=N049271 Pin=LD2-1
+Removed Pin From Net: NetName=P0_SMI_ADDR Pin=LD2-2
+Removed Pin From Net: NetName=N049111 Pin=LD3-1
+Removed Pin From Net: NetName=P0_EN_PHY Pin=LD3-2
+Removed Pin From Net: NetName=N048171 Pin=LD4-1
+Removed Pin From Net: NetName=P0_P3LED1 Pin=LD4-2
+Removed Pin From Net: NetName=N053670 Pin=LD5-1
+Removed Pin From Net: NetName=AGND Pin=LD5-2
+Removed Pin From Net: NetName=N954571 Pin=LD6-1
+Removed Pin From Net: NetName=P1_AUTOLOAD Pin=LD6-2
+Removed Pin From Net: NetName=N955931 Pin=LD7-1
+Removed Pin From Net: NetName=P1_SMI_ADDR Pin=LD7-2
+Removed Pin From Net: NetName=N961031 Pin=LD8-1
+Removed Pin From Net: NetName=P1_EN_PHY Pin=LD8-2
+Removed Pin From Net: NetName=N965031 Pin=LD9-1
+Removed Pin From Net: NetName=P1_P3LED1 Pin=LD9-2
+Removed Pin From Net: NetName=N968511 Pin=LD10-1
+Removed Pin From Net: NetName=AGND Pin=LD10-2
+Removed Pin From Net: NetName=+3.3V Pin=R1-1
+Removed Pin From Net: NetName=N052690 Pin=R1-2
+Removed Pin From Net: NetName=+3.3V Pin=R2-1
+Removed Pin From Net: NetName=P0_AUTOLOAD Pin=R2-2
+Removed Pin From Net: NetName=+3.3V Pin=R3-1
+Removed Pin From Net: NetName=P0_SDA Pin=R3-2
+Removed Pin From Net: NetName=+3.3V Pin=R4-1
+Removed Pin From Net: NetName=P0_SCL Pin=R4-2
+Removed Pin From Net: NetName=+3.3V Pin=R5-1
+Removed Pin From Net: NetName=P0_SMI_ADDR Pin=R5-2
+Removed Pin From Net: NetName=+3.3V Pin=R6-1
+Removed Pin From Net: NetName=N049271 Pin=R6-2
+Removed Pin From Net: NetName=+3.3V Pin=R7-1
+Removed Pin From Net: NetName=P0_RST Pin=R7-2
+Removed Pin From Net: NetName=+3.3V Pin=R8-1
+Removed Pin From Net: NetName=N049111 Pin=R8-2
+Removed Pin From Net: NetName=+3.3V Pin=R9-1
+Removed Pin From Net: NetName=P0_EN_PHY Pin=R9-2
+Removed Pin From Net: NetName=AGND Pin=R10-1
+Removed Pin From Net: NetName=N01813 Pin=R10-2
+Removed Pin From Net: NetName=+3.3V Pin=R11-1
+Removed Pin From Net: NetName=N048171 Pin=R11-2
+Removed Pin From Net: NetName=+3.3V Pin=R12-1
+Removed Pin From Net: NetName=P0_P3LED1 Pin=R12-2
+Removed Pin From Net: NetName=+3.3V Pin=R13-1
+Removed Pin From Net: NetName=N01857 Pin=R13-2
+Removed Pin From Net: NetName=P0_SMI_SEL Pin=R14-1
+Removed Pin From Net: NetName=N053670 Pin=R14-2
+Removed Pin From Net: NetName=P0_SMI_SEL Pin=R15-1
+Removed Pin From Net: NetName=AGND Pin=R15-2
+Removed Pin From Net: NetName=+3.3V Pin=R16-1
+Removed Pin From Net: NetName=N954571 Pin=R16-2
+Removed Pin From Net: NetName=+3.3V Pin=R17-1
+Removed Pin From Net: NetName=P1_AUTOLOAD Pin=R17-2
+Removed Pin From Net: NetName=+3.3V Pin=R18-1
+Removed Pin From Net: NetName=P1_SDA Pin=R18-2
+Removed Pin From Net: NetName=+3.3V Pin=R19-1
+Removed Pin From Net: NetName=P1_SCL Pin=R19-2
+Removed Pin From Net: NetName=+3.3V Pin=R20-1
+Removed Pin From Net: NetName=P1_SMI_ADDR Pin=R20-2
+Removed Pin From Net: NetName=+3.3V Pin=R21-1
+Removed Pin From Net: NetName=N955931 Pin=R21-2
+Removed Pin From Net: NetName=+3.3V Pin=R22-1
+Removed Pin From Net: NetName=P1_RST Pin=R22-2
+Removed Pin From Net: NetName=+3.3V Pin=R23-1
+Removed Pin From Net: NetName=N961031 Pin=R23-2
+Removed Pin From Net: NetName=+3.3V Pin=R24-1
+Removed Pin From Net: NetName=P1_EN_PHY Pin=R24-2
+Removed Pin From Net: NetName=AGND Pin=R25-1
+Removed Pin From Net: NetName=N96447 Pin=R25-2
+Removed Pin From Net: NetName=+3.3V Pin=R26-1
+Removed Pin From Net: NetName=N965031 Pin=R26-2
+Removed Pin From Net: NetName=+3.3V Pin=R27-1
+Removed Pin From Net: NetName=P1_P3LED1 Pin=R27-2
+Removed Pin From Net: NetName=+3.3V Pin=R28-1
+Removed Pin From Net: NetName=N96771 Pin=R28-2
+Removed Pin From Net: NetName=P1_SMI_SEL Pin=R29-1
+Removed Pin From Net: NetName=N968511 Pin=R29-2
+Removed Pin From Net: NetName=P1_SMI_SEL Pin=R30-1
+Removed Pin From Net: NetName=AGND Pin=R30-2
+Removed Pin From Net: NetName=SFP0_TXN Pin=R31-1
+Removed Pin From Net: NetName=SFP_3V3A Pin=R31-2
+Removed Pin From Net: NetName=AGND Pin=R32-1
+Removed Pin From Net: NetName=SFP0_TXN Pin=R32-2
+Removed Pin From Net: NetName=SFP1_TXN Pin=R33-1
+Removed Pin From Net: NetName=SFP_3V3B Pin=R33-2
+Removed Pin From Net: NetName=AGND Pin=R34-1
+Removed Pin From Net: NetName=SFP1_TXN Pin=R34-2
+Removed Pin From Net: NetName=SFP0_TXP Pin=R35-1
+Removed Pin From Net: NetName=SFP_3V3A Pin=R35-2
+Removed Pin From Net: NetName=AGND Pin=R36-1
+Removed Pin From Net: NetName=SFP0_TXP Pin=R36-2
+Removed Pin From Net: NetName=SFP1_TXP Pin=R37-1
+Removed Pin From Net: NetName=SFP_3V3B Pin=R37-2
+Removed Pin From Net: NetName=AGND Pin=R38-1
+Removed Pin From Net: NetName=SFP1_TXP Pin=R38-2
+Removed Pin From Net: NetName=AGND Pin=R39-1
+Removed Pin From Net: NetName=SFP0_RXP Pin=R39-2
+Removed Pin From Net: NetName=AGND Pin=R40-1
+Removed Pin From Net: NetName=SFP1_RXP Pin=R40-2
+Removed Pin From Net: NetName=AGND Pin=R41-1
+Removed Pin From Net: NetName=SFP0_RXN Pin=R41-2
+Removed Pin From Net: NetName=AGND Pin=R42-1
+Removed Pin From Net: NetName=SFP1_RXN Pin=R42-2
+Removed Pin From Net: NetName=N20626 Pin=R43-1
+Removed Pin From Net: NetName=SFP_3V3A Pin=R43-2
+Removed Pin From Net: NetName=N20636 Pin=R44-1
+Removed Pin From Net: NetName=SFP_3V3A Pin=R44-2
+Removed Pin From Net: NetName=N20642 Pin=R45-1
+Removed Pin From Net: NetName=SFP_3V3A Pin=R45-2
+Removed Pin From Net: NetName=N20648 Pin=R46-1
+Removed Pin From Net: NetName=SFP_3V3A Pin=R46-2
+Removed Pin From Net: NetName=N20660 Pin=R47-1
+Removed Pin From Net: NetName=SFP_3V3A Pin=R47-2
+Removed Pin From Net: NetName=N22123 Pin=R48-1
+Removed Pin From Net: NetName=SFP_3V3B Pin=R48-2
+Removed Pin From Net: NetName=N22131 Pin=R49-1
+Removed Pin From Net: NetName=SFP_3V3B Pin=R49-2
+Removed Pin From Net: NetName=N22135 Pin=R50-1
+Removed Pin From Net: NetName=SFP_3V3B Pin=R50-2
+Removed Pin From Net: NetName=N22139 Pin=R51-1
+Removed Pin From Net: NetName=SFP_3V3B Pin=R51-2
+Removed Pin From Net: NetName=N22147 Pin=R52-1
+Removed Pin From Net: NetName=SFP_3V3B Pin=R52-2
+Removed Pin From Net: NetName=P0_LED0 Pin=R53-1
+Removed Pin From Net: NetName=N113878 Pin=R53-2
+Removed Pin From Net: NetName=P1_LED0 Pin=R54-1
+Removed Pin From Net: NetName=N116614 Pin=R54-2
+Removed Pin From Net: NetName=P0_LED1 Pin=R55-1
+Removed Pin From Net: NetName=N115541 Pin=R55-2
+Removed Pin From Net: NetName=P1_LED1 Pin=R56-1
+Removed Pin From Net: NetName=N116618 Pin=R56-2
+Removed Pin From Net: NetName=N03467 Pin=R65-1
+Removed Pin From Net: NetName=+3.3V Pin=R65-2
+Removed Pin From Net: NetName=AGND Pin=R66-1
+Removed Pin From Net: NetName=N03467 Pin=R66-2
+Removed Pin From Net: NetName=AGND Pin=R67-1
+Removed Pin From Net: NetName=N04493 Pin=R67-2
+Removed Pin From Net: NetName=P0_LED0 Pin=TP1-1
+Removed Pin From Net: NetName=P0_LED1 Pin=TP2-1
+Removed Pin From Net: NetName=P0_1V Pin=TP3-1
+Removed Pin From Net: NetName=P1_LED0 Pin=TP4-1
+Removed Pin From Net: NetName=P1_LED1 Pin=TP5-1
+Removed Pin From Net: NetName=P1_1V Pin=TP6-1
+Removed Pin From Net: NetName=+3.3V Pin=TP7-1
+Removed Pin From Net: NetName=P0_ETH_CP Pin=U1-1
+Removed Pin From Net: NetName=P0_ETH_CN Pin=U1-2
+Removed Pin From Net: NetName=P0_ETH_DP Pin=U1-3
+Removed Pin From Net: NetName=P0_ETH_DN Pin=U1-4
+Removed Pin From Net: NetName=N01813 Pin=U1-5
+Removed Pin From Net: NetName=P0_1V Pin=U1-6
+Removed Pin From Net: NetName=+3.3V Pin=U1-7
+Removed Pin From Net: NetName=P0_1V Pin=U1-8
+Removed Pin From Net: NetName=P0_HSON Pin=U1-9
+Removed Pin From Net: NetName=P0_HSOP Pin=U1-10
+Removed Pin From Net: NetName=P0_1V Pin=U1-11
+Removed Pin From Net: NetName=P0_HSIP Pin=U1-12
+Removed Pin From Net: NetName=P0_HSIN Pin=U1-13
+Removed Pin From Net: NetName=+3.3V Pin=U1-14
+Removed Pin From Net: NetName=N01857 Pin=U1-15
+Removed Pin From Net: NetName=AGND Pin=U1-16
+Removed Pin From Net: NetName=N02024 Pin=U1-17
+Removed Pin From Net: NetName=N02024 Pin=U1-18
+Removed Pin From Net: NetName=+3.3V Pin=U1-19
+Removed Pin From Net: NetName=+3.3V Pin=U1-20
+Removed Pin From Net: NetName=+3.3V Pin=U1-21
+Removed Pin From Net: NetName=P0_1V Pin=U1-22
+Removed Pin From Net: NetName=P0_AUTOLOAD Pin=U1-23
+Removed Pin From Net: NetName=P0_SMI_ADDR Pin=U1-24
+Removed Pin From Net: NetName=P0_EN_PHY Pin=U1-25
+Removed Pin From Net: NetName=P0_P3LED1 Pin=U1-26
+Removed Pin From Net: NetName=P0_SMI_SEL Pin=U1-27
+Removed Pin From Net: NetName=+3.3V Pin=U1-28
+Removed Pin From Net: NetName=P0_XTAL_O Pin=U1-29
+Removed Pin From Net: NetName=P0_XTAL_I Pin=U1-30
+Removed Pin From Net: NetName=P0_SDA Pin=U1-31
+Removed Pin From Net: NetName=P0_SCL Pin=U1-32
+Removed Pin From Net: NetName=P0_RST Pin=U1-33
+Removed Pin From Net: NetName=P0_1V Pin=U1-34
+Removed Pin From Net: NetName=+3.3V Pin=U1-35
+Removed Pin From Net: NetName=P0_ETH_AP Pin=U1-36
+Removed Pin From Net: NetName=P0_ETH_AN Pin=U1-37
+Removed Pin From Net: NetName=P0_ETH_BP Pin=U1-38
+Removed Pin From Net: NetName=P0_ETH_BN Pin=U1-39
+Removed Pin From Net: NetName=P0_1V Pin=U1-40
+Removed Pin From Net: NetName=AGND Pin=U1-PAD
+Removed Pin From Net: NetName=P1_ETH_CP Pin=U2-1
+Removed Pin From Net: NetName=P1_ETH_CN Pin=U2-2
+Removed Pin From Net: NetName=P1_ETH_DP Pin=U2-3
+Removed Pin From Net: NetName=P1_ETH_DN Pin=U2-4
+Removed Pin From Net: NetName=N96447 Pin=U2-5
+Removed Pin From Net: NetName=P1_1V Pin=U2-6
+Removed Pin From Net: NetName=+3.3V Pin=U2-7
+Removed Pin From Net: NetName=P1_1V Pin=U2-8
+Removed Pin From Net: NetName=P1_HSON Pin=U2-9
+Removed Pin From Net: NetName=P1_HSOP Pin=U2-10
+Removed Pin From Net: NetName=P1_1V Pin=U2-11
+Removed Pin From Net: NetName=P1_HSIP Pin=U2-12
+Removed Pin From Net: NetName=P1_HSIN Pin=U2-13
+Removed Pin From Net: NetName=+3.3V Pin=U2-14
+Removed Pin From Net: NetName=N96771 Pin=U2-15
+Removed Pin From Net: NetName=AGND Pin=U2-16
+Removed Pin From Net: NetName=N96633 Pin=U2-17
+Removed Pin From Net: NetName=N96633 Pin=U2-18
+Removed Pin From Net: NetName=+3.3V Pin=U2-19
+Removed Pin From Net: NetName=+3.3V Pin=U2-20
+Removed Pin From Net: NetName=+3.3V Pin=U2-21
+Removed Pin From Net: NetName=P1_1V Pin=U2-22
+Removed Pin From Net: NetName=P1_AUTOLOAD Pin=U2-23
+Removed Pin From Net: NetName=P1_SMI_ADDR Pin=U2-24
+Removed Pin From Net: NetName=P1_EN_PHY Pin=U2-25
+Removed Pin From Net: NetName=P1_P3LED1 Pin=U2-26
+Removed Pin From Net: NetName=P1_SMI_SEL Pin=U2-27
+Removed Pin From Net: NetName=+3.3V Pin=U2-28
+Removed Pin From Net: NetName=P1_XTAL_O Pin=U2-29
+Removed Pin From Net: NetName=P1_XTAL_I Pin=U2-30
+Removed Pin From Net: NetName=P1_SDA Pin=U2-31
+Removed Pin From Net: NetName=P1_SCL Pin=U2-32
+Removed Pin From Net: NetName=P1_RST Pin=U2-33
+Removed Pin From Net: NetName=P1_1V Pin=U2-34
+Removed Pin From Net: NetName=+3.3V Pin=U2-35
+Removed Pin From Net: NetName=P1_ETH_AP Pin=U2-36
+Removed Pin From Net: NetName=P1_ETH_AN Pin=U2-37
+Removed Pin From Net: NetName=P1_ETH_BP Pin=U2-38
+Removed Pin From Net: NetName=P1_ETH_BN Pin=U2-39
+Removed Pin From Net: NetName=P1_1V Pin=U2-40
+Removed Pin From Net: NetName=AGND Pin=U2-PAD
+Removed Pin From Net: NetName=N04286 Pin=U3-1
+Removed Pin From Net: NetName=N03411 Pin=U3-2
+Removed Pin From Net: NetName=AGND Pin=U3-3
+Removed Pin From Net: NetName=N03467 Pin=U3-4
+Removed Pin From Net: NetName=N04493 Pin=U3-5
+Removed Pin From Net: NetName=AGND Pin=U3-6
+Removed Pin From Net: NetName=P0_XTAL_I Pin=Y1-1
+Removed Pin From Net: NetName=AGND Pin=Y1-2
+Removed Pin From Net: NetName=P0_XTAL_O Pin=Y1-3
+Removed Pin From Net: NetName=AGND Pin=Y1-4
+Removed Pin From Net: NetName=P1_XTAL_I Pin=Y2-1
+Removed Pin From Net: NetName=AGND Pin=Y2-2
+Removed Pin From Net: NetName=P1_XTAL_O Pin=Y2-3
+Removed Pin From Net: NetName=AGND Pin=Y2-4
+Added Component: Designator=BC1(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC2(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC3(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC4(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC5(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC6(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC7(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC8(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC9(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC10(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC11(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC12(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC13(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC14(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC15(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC16(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC17(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC18(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC19(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC20(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC21(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC22(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC23(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC24(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC25(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC26(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC27(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC28(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC29(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC30(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C19(CS-1608)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C20(CS-1608)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C21(CS-1608)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C22(CS-2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C23(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C24(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C25(CS-2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C26(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C27(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C28(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CN1(TH_HC-SFP-01L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CN2(TH_HC-SFP-01L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(SOD-106)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FB1(LS-1608)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FB2(LS-1608)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FB3(LS-2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(Header_2.54_10p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(KSP20LG154)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(Header_2.54_10p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(KSP20LG154)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(HR911130A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(HR911130A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(DC005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(CDRH3D16NP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(CDRH3D16NP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L3(CDRH6D38NP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD1(LED2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD2(LED2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD3(LED2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD4(LED2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD5(LED2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD6(LED2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD7(LED2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD8(LED2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD9(LED2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD10(LED2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R18(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R19(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R20(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R21(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R22(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R23(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R24(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R25(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R26(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R27(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R28(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R29(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R30(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R31(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R32(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R33(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R34(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R35(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R36(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R37(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R38(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R39(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R40(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R41(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R42(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R43(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R44(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R45(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R46(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R47(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R48(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R49(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R50(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R51(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R52(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R53(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R54(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R55(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R56(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R65(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R66(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R67(RS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1(TP-SMD(1.0))
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TP-SMD(1.0))
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(TP-SMD(1.0))
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(TP-SMD(1.0))
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(TP-SMD(1.0))
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP6(TP-SMD(1.0))
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP7(TP-SMD(1.0))
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(QFN-40_5x5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(QFN-40_5x5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(TO252-5L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(SX-32)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y2(SX-32)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P0_1V Pin=BC1-1
+Added Pin To Net: NetName=AGND Pin=BC1-2
+Added Pin To Net: NetName=P0_1V Pin=BC2-1
+Added Pin To Net: NetName=AGND Pin=BC2-2
+Added Pin To Net: NetName=+3.3V Pin=BC3-1
+Added Pin To Net: NetName=AGND Pin=BC3-2
+Added Pin To Net: NetName=+3.3V Pin=BC4-1
+Added Pin To Net: NetName=AGND Pin=BC4-2
+Added Pin To Net: NetName=+3.3V Pin=BC5-1
+Added Pin To Net: NetName=AGND Pin=BC5-2
+Added Pin To Net: NetName=+3.3V Pin=BC6-1
+Added Pin To Net: NetName=AGND Pin=BC6-2
+Added Pin To Net: NetName=+3.3V Pin=BC7-1
+Added Pin To Net: NetName=AGND Pin=BC7-2
+Added Pin To Net: NetName=P0_1V Pin=BC8-1
+Added Pin To Net: NetName=AGND Pin=BC8-2
+Added Pin To Net: NetName=P0_1V Pin=BC9-1
+Added Pin To Net: NetName=AGND Pin=BC9-2
+Added Pin To Net: NetName=P0_1V Pin=BC10-1
+Added Pin To Net: NetName=AGND Pin=BC10-2
+Added Pin To Net: NetName=P0_1V Pin=BC11-1
+Added Pin To Net: NetName=AGND Pin=BC11-2
+Added Pin To Net: NetName=P0_1V Pin=BC12-1
+Added Pin To Net: NetName=AGND Pin=BC12-2
+Added Pin To Net: NetName=P0_1V Pin=BC13-1
+Added Pin To Net: NetName=AGND Pin=BC13-2
+Added Pin To Net: NetName=P1_1V Pin=BC14-1
+Added Pin To Net: NetName=AGND Pin=BC14-2
+Added Pin To Net: NetName=P1_1V Pin=BC15-1
+Added Pin To Net: NetName=AGND Pin=BC15-2
+Added Pin To Net: NetName=+3.3V Pin=BC16-1
+Added Pin To Net: NetName=AGND Pin=BC16-2
+Added Pin To Net: NetName=+3.3V Pin=BC17-1
+Added Pin To Net: NetName=AGND Pin=BC17-2
+Added Pin To Net: NetName=+3.3V Pin=BC18-1
+Added Pin To Net: NetName=AGND Pin=BC18-2
+Added Pin To Net: NetName=+3.3V Pin=BC19-1
+Added Pin To Net: NetName=AGND Pin=BC19-2
+Added Pin To Net: NetName=+3.3V Pin=BC20-1
+Added Pin To Net: NetName=AGND Pin=BC20-2
+Added Pin To Net: NetName=P1_1V Pin=BC21-1
+Added Pin To Net: NetName=AGND Pin=BC21-2
+Added Pin To Net: NetName=P1_1V Pin=BC22-1
+Added Pin To Net: NetName=AGND Pin=BC22-2
+Added Pin To Net: NetName=P1_1V Pin=BC23-1
+Added Pin To Net: NetName=AGND Pin=BC23-2
+Added Pin To Net: NetName=P1_1V Pin=BC24-1
+Added Pin To Net: NetName=AGND Pin=BC24-2
+Added Pin To Net: NetName=P1_1V Pin=BC25-1
+Added Pin To Net: NetName=AGND Pin=BC25-2
+Added Pin To Net: NetName=P1_1V Pin=BC26-1
+Added Pin To Net: NetName=AGND Pin=BC26-2
+Added Pin To Net: NetName=AGND Pin=BC27-1
+Added Pin To Net: NetName=SFP_3V3A Pin=BC27-2
+Added Pin To Net: NetName=AGND Pin=BC28-1
+Added Pin To Net: NetName=SFP_3V3A Pin=BC28-2
+Added Pin To Net: NetName=AGND Pin=BC29-1
+Added Pin To Net: NetName=SFP_3V3B Pin=BC29-2
+Added Pin To Net: NetName=AGND Pin=BC30-1
+Added Pin To Net: NetName=SFP_3V3B Pin=BC30-2
+Added Pin To Net: NetName=P0_XTAL_I Pin=C1-1
+Added Pin To Net: NetName=AGND Pin=C1-2
+Added Pin To Net: NetName=P0_RST Pin=C2-1
+Added Pin To Net: NetName=AGND Pin=C2-2
+Added Pin To Net: NetName=P0_XTAL_O Pin=C3-1
+Added Pin To Net: NetName=AGND Pin=C3-2
+Added Pin To Net: NetName=P1_XTAL_I Pin=C4-1
+Added Pin To Net: NetName=AGND Pin=C4-2
+Added Pin To Net: NetName=P1_XTAL_O Pin=C5-1
+Added Pin To Net: NetName=AGND Pin=C5-2
+Added Pin To Net: NetName=P1_RST Pin=C6-1
+Added Pin To Net: NetName=AGND Pin=C6-2
+Added Pin To Net: NetName=SFP0_TXN Pin=C7-1
+Added Pin To Net: NetName=P0_HSON Pin=C7-2
+Added Pin To Net: NetName=SFP1_TXN Pin=C8-1
+Added Pin To Net: NetName=P1_HSON Pin=C8-2
+Added Pin To Net: NetName=SFP0_TXP Pin=C9-1
+Added Pin To Net: NetName=P0_HSOP Pin=C9-2
+Added Pin To Net: NetName=SFP1_TXP Pin=C10-1
+Added Pin To Net: NetName=P1_HSOP Pin=C10-2
+Added Pin To Net: NetName=SFP0_RXP Pin=C11-1
+Added Pin To Net: NetName=P0_HSIP Pin=C11-2
+Added Pin To Net: NetName=SFP1_RXP Pin=C12-1
+Added Pin To Net: NetName=P1_HSIP Pin=C12-2
+Added Pin To Net: NetName=SFP0_RXN Pin=C13-1
+Added Pin To Net: NetName=P0_HSIN Pin=C13-2
+Added Pin To Net: NetName=SFP1_RXN Pin=C14-1
+Added Pin To Net: NetName=P1_HSIN Pin=C14-2
+Added Pin To Net: NetName=N04319 Pin=C19-1
+Added Pin To Net: NetName=AGND Pin=C19-2
+Added Pin To Net: NetName=N04319 Pin=C20-1
+Added Pin To Net: NetName=AGND Pin=C20-2
+Added Pin To Net: NetName=N88350 Pin=C21-1
+Added Pin To Net: NetName=AGND Pin=C21-2
+Added Pin To Net: NetName=+3.3V Pin=C22-1
+Added Pin To Net: NetName=AGND Pin=C22-2
+Added Pin To Net: NetName=+3.3V Pin=C23-1
+Added Pin To Net: NetName=AGND Pin=C23-2
+Added Pin To Net: NetName=+3.3V Pin=C24-1
+Added Pin To Net: NetName=AGND Pin=C24-2
+Added Pin To Net: NetName=N04286 Pin=C25-1
+Added Pin To Net: NetName=AGND Pin=C25-2
+Added Pin To Net: NetName=N04286 Pin=C26-1
+Added Pin To Net: NetName=AGND Pin=C26-2
+Added Pin To Net: NetName=AGND Pin=C27-1
+Added Pin To Net: NetName=N117614 Pin=C27-2
+Added Pin To Net: NetName=AGND Pin=C28-1
+Added Pin To Net: NetName=N118028 Pin=C28-2
+Added Pin To Net: NetName=AGND Pin=CN1-1
+Added Pin To Net: NetName=AGND Pin=CN1-2
+Added Pin To Net: NetName=AGND Pin=CN1-3
+Added Pin To Net: NetName=AGND Pin=CN1-4
+Added Pin To Net: NetName=AGND Pin=CN1-5
+Added Pin To Net: NetName=AGND Pin=CN1-6
+Added Pin To Net: NetName=AGND Pin=CN1-7
+Added Pin To Net: NetName=AGND Pin=CN1-8
+Added Pin To Net: NetName=AGND Pin=CN1-9
+Added Pin To Net: NetName=AGND Pin=CN1-10
+Added Pin To Net: NetName=AGND Pin=CN1-11
+Added Pin To Net: NetName=AGND Pin=CN1-12
+Added Pin To Net: NetName=AGND Pin=CN1-13
+Added Pin To Net: NetName=AGND Pin=CN1-14
+Added Pin To Net: NetName=AGND Pin=CN1-15
+Added Pin To Net: NetName=AGND Pin=CN1-16
+Added Pin To Net: NetName=AGND Pin=CN1-17
+Added Pin To Net: NetName=AGND Pin=CN1-18
+Added Pin To Net: NetName=AGND Pin=CN1-19
+Added Pin To Net: NetName=AGND Pin=CN1-20
+Added Pin To Net: NetName=AGND Pin=CN2-1
+Added Pin To Net: NetName=AGND Pin=CN2-2
+Added Pin To Net: NetName=AGND Pin=CN2-3
+Added Pin To Net: NetName=AGND Pin=CN2-4
+Added Pin To Net: NetName=AGND Pin=CN2-5
+Added Pin To Net: NetName=AGND Pin=CN2-6
+Added Pin To Net: NetName=AGND Pin=CN2-7
+Added Pin To Net: NetName=AGND Pin=CN2-8
+Added Pin To Net: NetName=AGND Pin=CN2-9
+Added Pin To Net: NetName=AGND Pin=CN2-10
+Added Pin To Net: NetName=AGND Pin=CN2-11
+Added Pin To Net: NetName=AGND Pin=CN2-12
+Added Pin To Net: NetName=AGND Pin=CN2-13
+Added Pin To Net: NetName=AGND Pin=CN2-14
+Added Pin To Net: NetName=AGND Pin=CN2-15
+Added Pin To Net: NetName=AGND Pin=CN2-16
+Added Pin To Net: NetName=AGND Pin=CN2-17
+Added Pin To Net: NetName=AGND Pin=CN2-18
+Added Pin To Net: NetName=AGND Pin=CN2-19
+Added Pin To Net: NetName=AGND Pin=CN2-20
+Added Pin To Net: NetName=N88350 Pin=D1-1
+Added Pin To Net: NetName=N04286 Pin=D1-2
+Added Pin To Net: NetName=+3.3V Pin=FB1-1
+Added Pin To Net: NetName=SFP_3V3A Pin=FB1-2
+Added Pin To Net: NetName=+3.3V Pin=FB2-1
+Added Pin To Net: NetName=SFP_3V3B Pin=FB2-2
+Added Pin To Net: NetName=N04319 Pin=FB3-1
+Added Pin To Net: NetName=N88350 Pin=FB3-2
+Added Pin To Net: NetName=SFP_3V3A Pin=J1-1
+Added Pin To Net: NetName=N20626 Pin=J1-2
+Added Pin To Net: NetName=N20630 Pin=J1-3
+Added Pin To Net: NetName=N20636 Pin=J1-4
+Added Pin To Net: NetName=N20642 Pin=J1-5
+Added Pin To Net: NetName=N20648 Pin=J1-6
+Added Pin To Net: NetName=N20654 Pin=J1-7
+Added Pin To Net: NetName=N20660 Pin=J1-8
+Added Pin To Net: NetName=AGND Pin=J1-9
+Added Pin To Net: NetName=AGND Pin=J1-10
+Added Pin To Net: NetName=AGND Pin=J2-1
+Added Pin To Net: NetName=N20626 Pin=J2-2
+Added Pin To Net: NetName=N20630 Pin=J2-3
+Added Pin To Net: NetName=N20636 Pin=J2-4
+Added Pin To Net: NetName=N20642 Pin=J2-5
+Added Pin To Net: NetName=N20648 Pin=J2-6
+Added Pin To Net: NetName=N20654 Pin=J2-7
+Added Pin To Net: NetName=N20660 Pin=J2-8
+Added Pin To Net: NetName=AGND Pin=J2-9
+Added Pin To Net: NetName=AGND Pin=J2-10
+Added Pin To Net: NetName=AGND Pin=J2-11
+Added Pin To Net: NetName=SFP0_RXN Pin=J2-12
+Added Pin To Net: NetName=SFP0_RXP Pin=J2-13
+Added Pin To Net: NetName=AGND Pin=J2-14
+Added Pin To Net: NetName=SFP_3V3A Pin=J2-15
+Added Pin To Net: NetName=SFP_3V3A Pin=J2-16
+Added Pin To Net: NetName=AGND Pin=J2-17
+Added Pin To Net: NetName=SFP0_TXP Pin=J2-18
+Added Pin To Net: NetName=SFP0_TXN Pin=J2-19
+Added Pin To Net: NetName=AGND Pin=J2-20
+Added Pin To Net: NetName=SFP_3V3B Pin=J3-1
+Added Pin To Net: NetName=N22123 Pin=J3-2
+Added Pin To Net: NetName=N22159 Pin=J3-3
+Added Pin To Net: NetName=N22131 Pin=J3-4
+Added Pin To Net: NetName=N22135 Pin=J3-5
+Added Pin To Net: NetName=N22139 Pin=J3-6
+Added Pin To Net: NetName=N22191 Pin=J3-7
+Added Pin To Net: NetName=N22147 Pin=J3-8
+Added Pin To Net: NetName=AGND Pin=J3-9
+Added Pin To Net: NetName=AGND Pin=J3-10
+Added Pin To Net: NetName=AGND Pin=J4-1
+Added Pin To Net: NetName=N22123 Pin=J4-2
+Added Pin To Net: NetName=N22159 Pin=J4-3
+Added Pin To Net: NetName=N22131 Pin=J4-4
+Added Pin To Net: NetName=N22135 Pin=J4-5
+Added Pin To Net: NetName=N22139 Pin=J4-6
+Added Pin To Net: NetName=N22191 Pin=J4-7
+Added Pin To Net: NetName=N22147 Pin=J4-8
+Added Pin To Net: NetName=AGND Pin=J4-9
+Added Pin To Net: NetName=AGND Pin=J4-10
+Added Pin To Net: NetName=AGND Pin=J4-11
+Added Pin To Net: NetName=SFP1_RXN Pin=J4-12
+Added Pin To Net: NetName=SFP1_RXP Pin=J4-13
+Added Pin To Net: NetName=AGND Pin=J4-14
+Added Pin To Net: NetName=SFP_3V3B Pin=J4-15
+Added Pin To Net: NetName=SFP_3V3B Pin=J4-16
+Added Pin To Net: NetName=AGND Pin=J4-17
+Added Pin To Net: NetName=SFP1_TXP Pin=J4-18
+Added Pin To Net: NetName=SFP1_TXN Pin=J4-19
+Added Pin To Net: NetName=AGND Pin=J4-20
+Added Pin To Net: NetName=N117614 Pin=J5-1
+Added Pin To Net: NetName=P0_ETH_AP Pin=J5-2
+Added Pin To Net: NetName=P0_ETH_AN Pin=J5-3
+Added Pin To Net: NetName=P0_ETH_BP Pin=J5-4
+Added Pin To Net: NetName=P0_ETH_CP Pin=J5-5
+Added Pin To Net: NetName=P0_ETH_CN Pin=J5-6
+Added Pin To Net: NetName=P0_ETH_BN Pin=J5-7
+Added Pin To Net: NetName=P0_ETH_DP Pin=J5-8
+Added Pin To Net: NetName=P0_ETH_DN Pin=J5-9
+Added Pin To Net: NetName=AGND Pin=J5-10
+Added Pin To Net: NetName=+3.3V Pin=J5-11
+Added Pin To Net: NetName=N113878 Pin=J5-12
+Added Pin To Net: NetName=+3.3V Pin=J5-13
+Added Pin To Net: NetName=N115541 Pin=J5-14
+Added Pin To Net: NetName=AGND Pin=J5-M1
+Added Pin To Net: NetName=AGND Pin=J5-M2
+Added Pin To Net: NetName=N118028 Pin=J6-1
+Added Pin To Net: NetName=P1_ETH_AP Pin=J6-2
+Added Pin To Net: NetName=P1_ETH_AN Pin=J6-3
+Added Pin To Net: NetName=P1_ETH_BP Pin=J6-4
+Added Pin To Net: NetName=P1_ETH_CP Pin=J6-5
+Added Pin To Net: NetName=P1_ETH_CN Pin=J6-6
+Added Pin To Net: NetName=P1_ETH_BN Pin=J6-7
+Added Pin To Net: NetName=P1_ETH_DP Pin=J6-8
+Added Pin To Net: NetName=P1_ETH_DN Pin=J6-9
+Added Pin To Net: NetName=AGND Pin=J6-10
+Added Pin To Net: NetName=+3.3V Pin=J6-11
+Added Pin To Net: NetName=N116614 Pin=J6-12
+Added Pin To Net: NetName=+3.3V Pin=J6-13
+Added Pin To Net: NetName=N116618 Pin=J6-14
+Added Pin To Net: NetName=AGND Pin=J6-M1
+Added Pin To Net: NetName=AGND Pin=J6-M2
+Added Pin To Net: NetName=AGND Pin=J7-1
+Added Pin To Net: NetName=N04319 Pin=J7-3
+Added Pin To Net: NetName=P0_1V Pin=L1-1
+Added Pin To Net: NetName=N02024 Pin=L1-2
+Added Pin To Net: NetName=P1_1V Pin=L2-1
+Added Pin To Net: NetName=N96633 Pin=L2-2
+Added Pin To Net: NetName=+3.3V Pin=L3-1
+Added Pin To Net: NetName=N03411 Pin=L3-2
+Added Pin To Net: NetName=N052690 Pin=LD1-1
+Added Pin To Net: NetName=P0_AUTOLOAD Pin=LD1-2
+Added Pin To Net: NetName=N049271 Pin=LD2-1
+Added Pin To Net: NetName=P0_SMI_ADDR Pin=LD2-2
+Added Pin To Net: NetName=N049111 Pin=LD3-1
+Added Pin To Net: NetName=P0_EN_PHY Pin=LD3-2
+Added Pin To Net: NetName=N048171 Pin=LD4-1
+Added Pin To Net: NetName=P0_P3LED1 Pin=LD4-2
+Added Pin To Net: NetName=N053670 Pin=LD5-1
+Added Pin To Net: NetName=AGND Pin=LD5-2
+Added Pin To Net: NetName=N954571 Pin=LD6-1
+Added Pin To Net: NetName=P1_AUTOLOAD Pin=LD6-2
+Added Pin To Net: NetName=N955931 Pin=LD7-1
+Added Pin To Net: NetName=P1_SMI_ADDR Pin=LD7-2
+Added Pin To Net: NetName=N961031 Pin=LD8-1
+Added Pin To Net: NetName=P1_EN_PHY Pin=LD8-2
+Added Pin To Net: NetName=N965031 Pin=LD9-1
+Added Pin To Net: NetName=P1_P3LED1 Pin=LD9-2
+Added Pin To Net: NetName=N968511 Pin=LD10-1
+Added Pin To Net: NetName=AGND Pin=LD10-2
+Added Pin To Net: NetName=+3.3V Pin=R1-1
+Added Pin To Net: NetName=N052690 Pin=R1-2
+Added Pin To Net: NetName=+3.3V Pin=R2-1
+Added Pin To Net: NetName=P0_AUTOLOAD Pin=R2-2
+Added Pin To Net: NetName=+3.3V Pin=R3-1
+Added Pin To Net: NetName=P0_SDA Pin=R3-2
+Added Pin To Net: NetName=+3.3V Pin=R4-1
+Added Pin To Net: NetName=P0_SCL Pin=R4-2
+Added Pin To Net: NetName=+3.3V Pin=R5-1
+Added Pin To Net: NetName=P0_SMI_ADDR Pin=R5-2
+Added Pin To Net: NetName=+3.3V Pin=R6-1
+Added Pin To Net: NetName=N049271 Pin=R6-2
+Added Pin To Net: NetName=+3.3V Pin=R7-1
+Added Pin To Net: NetName=P0_RST Pin=R7-2
+Added Pin To Net: NetName=+3.3V Pin=R8-1
+Added Pin To Net: NetName=N049111 Pin=R8-2
+Added Pin To Net: NetName=+3.3V Pin=R9-1
+Added Pin To Net: NetName=P0_EN_PHY Pin=R9-2
+Added Pin To Net: NetName=AGND Pin=R10-1
+Added Pin To Net: NetName=N01813 Pin=R10-2
+Added Pin To Net: NetName=+3.3V Pin=R11-1
+Added Pin To Net: NetName=N048171 Pin=R11-2
+Added Pin To Net: NetName=+3.3V Pin=R12-1
+Added Pin To Net: NetName=P0_P3LED1 Pin=R12-2
+Added Pin To Net: NetName=+3.3V Pin=R13-1
+Added Pin To Net: NetName=N01857 Pin=R13-2
+Added Pin To Net: NetName=P0_SMI_SEL Pin=R14-1
+Added Pin To Net: NetName=N053670 Pin=R14-2
+Added Pin To Net: NetName=P0_SMI_SEL Pin=R15-1
+Added Pin To Net: NetName=AGND Pin=R15-2
+Added Pin To Net: NetName=+3.3V Pin=R16-1
+Added Pin To Net: NetName=N954571 Pin=R16-2
+Added Pin To Net: NetName=+3.3V Pin=R17-1
+Added Pin To Net: NetName=P1_AUTOLOAD Pin=R17-2
+Added Pin To Net: NetName=+3.3V Pin=R18-1
+Added Pin To Net: NetName=P1_SDA Pin=R18-2
+Added Pin To Net: NetName=+3.3V Pin=R19-1
+Added Pin To Net: NetName=P1_SCL Pin=R19-2
+Added Pin To Net: NetName=+3.3V Pin=R20-1
+Added Pin To Net: NetName=P1_SMI_ADDR Pin=R20-2
+Added Pin To Net: NetName=+3.3V Pin=R21-1
+Added Pin To Net: NetName=N955931 Pin=R21-2
+Added Pin To Net: NetName=+3.3V Pin=R22-1
+Added Pin To Net: NetName=P1_RST Pin=R22-2
+Added Pin To Net: NetName=+3.3V Pin=R23-1
+Added Pin To Net: NetName=N961031 Pin=R23-2
+Added Pin To Net: NetName=+3.3V Pin=R24-1
+Added Pin To Net: NetName=P1_EN_PHY Pin=R24-2
+Added Pin To Net: NetName=AGND Pin=R25-1
+Added Pin To Net: NetName=N96447 Pin=R25-2
+Added Pin To Net: NetName=+3.3V Pin=R26-1
+Added Pin To Net: NetName=N965031 Pin=R26-2
+Added Pin To Net: NetName=+3.3V Pin=R27-1
+Added Pin To Net: NetName=P1_P3LED1 Pin=R27-2
+Added Pin To Net: NetName=+3.3V Pin=R28-1
+Added Pin To Net: NetName=N96771 Pin=R28-2
+Added Pin To Net: NetName=P1_SMI_SEL Pin=R29-1
+Added Pin To Net: NetName=N968511 Pin=R29-2
+Added Pin To Net: NetName=P1_SMI_SEL Pin=R30-1
+Added Pin To Net: NetName=AGND Pin=R30-2
+Added Pin To Net: NetName=SFP0_TXN Pin=R31-1
+Added Pin To Net: NetName=SFP_3V3A Pin=R31-2
+Added Pin To Net: NetName=AGND Pin=R32-1
+Added Pin To Net: NetName=SFP0_TXN Pin=R32-2
+Added Pin To Net: NetName=SFP1_TXN Pin=R33-1
+Added Pin To Net: NetName=SFP_3V3B Pin=R33-2
+Added Pin To Net: NetName=AGND Pin=R34-1
+Added Pin To Net: NetName=SFP1_TXN Pin=R34-2
+Added Pin To Net: NetName=SFP0_TXP Pin=R35-1
+Added Pin To Net: NetName=SFP_3V3A Pin=R35-2
+Added Pin To Net: NetName=AGND Pin=R36-1
+Added Pin To Net: NetName=SFP0_TXP Pin=R36-2
+Added Pin To Net: NetName=SFP1_TXP Pin=R37-1
+Added Pin To Net: NetName=SFP_3V3B Pin=R37-2
+Added Pin To Net: NetName=AGND Pin=R38-1
+Added Pin To Net: NetName=SFP1_TXP Pin=R38-2
+Added Pin To Net: NetName=AGND Pin=R39-1
+Added Pin To Net: NetName=SFP0_RXP Pin=R39-2
+Added Pin To Net: NetName=AGND Pin=R40-1
+Added Pin To Net: NetName=SFP1_RXP Pin=R40-2
+Added Pin To Net: NetName=AGND Pin=R41-1
+Added Pin To Net: NetName=SFP0_RXN Pin=R41-2
+Added Pin To Net: NetName=AGND Pin=R42-1
+Added Pin To Net: NetName=SFP1_RXN Pin=R42-2
+Added Pin To Net: NetName=N20626 Pin=R43-1
+Added Pin To Net: NetName=SFP_3V3A Pin=R43-2
+Added Pin To Net: NetName=N20636 Pin=R44-1
+Added Pin To Net: NetName=SFP_3V3A Pin=R44-2
+Added Pin To Net: NetName=N20642 Pin=R45-1
+Added Pin To Net: NetName=SFP_3V3A Pin=R45-2
+Added Pin To Net: NetName=N20648 Pin=R46-1
+Added Pin To Net: NetName=SFP_3V3A Pin=R46-2
+Added Pin To Net: NetName=N20660 Pin=R47-1
+Added Pin To Net: NetName=SFP_3V3A Pin=R47-2
+Added Pin To Net: NetName=N22123 Pin=R48-1
+Added Pin To Net: NetName=SFP_3V3B Pin=R48-2
+Added Pin To Net: NetName=N22131 Pin=R49-1
+Added Pin To Net: NetName=SFP_3V3B Pin=R49-2
+Added Pin To Net: NetName=N22135 Pin=R50-1
+Added Pin To Net: NetName=SFP_3V3B Pin=R50-2
+Added Pin To Net: NetName=N22139 Pin=R51-1
+Added Pin To Net: NetName=SFP_3V3B Pin=R51-2
+Added Pin To Net: NetName=N22147 Pin=R52-1
+Added Pin To Net: NetName=SFP_3V3B Pin=R52-2
+Added Pin To Net: NetName=P0_LED0 Pin=R53-1
+Added Pin To Net: NetName=N113878 Pin=R53-2
+Added Pin To Net: NetName=P1_LED0 Pin=R54-1
+Added Pin To Net: NetName=N116614 Pin=R54-2
+Added Pin To Net: NetName=P0_LED1 Pin=R55-1
+Added Pin To Net: NetName=N115541 Pin=R55-2
+Added Pin To Net: NetName=P1_LED1 Pin=R56-1
+Added Pin To Net: NetName=N116618 Pin=R56-2
+Added Pin To Net: NetName=N03467 Pin=R65-1
+Added Pin To Net: NetName=+3.3V Pin=R65-2
+Added Pin To Net: NetName=AGND Pin=R66-1
+Added Pin To Net: NetName=N03467 Pin=R66-2
+Added Pin To Net: NetName=AGND Pin=R67-1
+Added Pin To Net: NetName=N04493 Pin=R67-2
+Added Pin To Net: NetName=P0_LED0 Pin=TP1-1
+Added Pin To Net: NetName=P0_LED1 Pin=TP2-1
+Added Pin To Net: NetName=P0_1V Pin=TP3-1
+Added Pin To Net: NetName=P1_LED0 Pin=TP4-1
+Added Pin To Net: NetName=P1_LED1 Pin=TP5-1
+Added Pin To Net: NetName=P1_1V Pin=TP6-1
+Added Pin To Net: NetName=+3.3V Pin=TP7-1
+Added Pin To Net: NetName=P0_ETH_CP Pin=U1-1
+Added Pin To Net: NetName=P0_ETH_CN Pin=U1-2
+Added Pin To Net: NetName=P0_ETH_DP Pin=U1-3
+Added Pin To Net: NetName=P0_ETH_DN Pin=U1-4
+Added Pin To Net: NetName=N01813 Pin=U1-5
+Added Pin To Net: NetName=P0_1V Pin=U1-6
+Added Pin To Net: NetName=+3.3V Pin=U1-7
+Added Pin To Net: NetName=P0_1V Pin=U1-8
+Added Pin To Net: NetName=P0_HSON Pin=U1-9
+Added Pin To Net: NetName=P0_HSOP Pin=U1-10
+Added Pin To Net: NetName=P0_1V Pin=U1-11
+Added Pin To Net: NetName=P0_HSIP Pin=U1-12
+Added Pin To Net: NetName=P0_HSIN Pin=U1-13
+Added Pin To Net: NetName=+3.3V Pin=U1-14
+Added Pin To Net: NetName=N01857 Pin=U1-15
+Added Pin To Net: NetName=AGND Pin=U1-16
+Added Pin To Net: NetName=N02024 Pin=U1-17
+Added Pin To Net: NetName=N02024 Pin=U1-18
+Added Pin To Net: NetName=+3.3V Pin=U1-19
+Added Pin To Net: NetName=+3.3V Pin=U1-20
+Added Pin To Net: NetName=+3.3V Pin=U1-21
+Added Pin To Net: NetName=P0_1V Pin=U1-22
+Added Pin To Net: NetName=P0_AUTOLOAD Pin=U1-23
+Added Pin To Net: NetName=P0_SMI_ADDR Pin=U1-24
+Added Pin To Net: NetName=P0_EN_PHY Pin=U1-25
+Added Pin To Net: NetName=P0_P3LED1 Pin=U1-26
+Added Pin To Net: NetName=P0_SMI_SEL Pin=U1-27
+Added Pin To Net: NetName=+3.3V Pin=U1-28
+Added Pin To Net: NetName=P0_XTAL_O Pin=U1-29
+Added Pin To Net: NetName=P0_XTAL_I Pin=U1-30
+Added Pin To Net: NetName=P0_SDA Pin=U1-31
+Added Pin To Net: NetName=P0_SCL Pin=U1-32
+Added Pin To Net: NetName=P0_RST Pin=U1-33
+Added Pin To Net: NetName=P0_1V Pin=U1-34
+Added Pin To Net: NetName=+3.3V Pin=U1-35
+Added Pin To Net: NetName=P0_ETH_AP Pin=U1-36
+Added Pin To Net: NetName=P0_ETH_AN Pin=U1-37
+Added Pin To Net: NetName=P0_ETH_BP Pin=U1-38
+Added Pin To Net: NetName=P0_ETH_BN Pin=U1-39
+Added Pin To Net: NetName=P0_1V Pin=U1-40
+Added Pin To Net: NetName=AGND Pin=U1-PAD
+Added Pin To Net: NetName=P1_ETH_CP Pin=U2-1
+Added Pin To Net: NetName=P1_ETH_CN Pin=U2-2
+Added Pin To Net: NetName=P1_ETH_DP Pin=U2-3
+Added Pin To Net: NetName=P1_ETH_DN Pin=U2-4
+Added Pin To Net: NetName=N96447 Pin=U2-5
+Added Pin To Net: NetName=P1_1V Pin=U2-6
+Added Pin To Net: NetName=+3.3V Pin=U2-7
+Added Pin To Net: NetName=P1_1V Pin=U2-8
+Added Pin To Net: NetName=P1_HSON Pin=U2-9
+Added Pin To Net: NetName=P1_HSOP Pin=U2-10
+Added Pin To Net: NetName=P1_1V Pin=U2-11
+Added Pin To Net: NetName=P1_HSIP Pin=U2-12
+Added Pin To Net: NetName=P1_HSIN Pin=U2-13
+Added Pin To Net: NetName=+3.3V Pin=U2-14
+Added Pin To Net: NetName=N96771 Pin=U2-15
+Added Pin To Net: NetName=AGND Pin=U2-16
+Added Pin To Net: NetName=N96633 Pin=U2-17
+Added Pin To Net: NetName=N96633 Pin=U2-18
+Added Pin To Net: NetName=+3.3V Pin=U2-19
+Added Pin To Net: NetName=+3.3V Pin=U2-20
+Added Pin To Net: NetName=+3.3V Pin=U2-21
+Added Pin To Net: NetName=P1_1V Pin=U2-22
+Added Pin To Net: NetName=P1_AUTOLOAD Pin=U2-23
+Added Pin To Net: NetName=P1_SMI_ADDR Pin=U2-24
+Added Pin To Net: NetName=P1_EN_PHY Pin=U2-25
+Added Pin To Net: NetName=P1_P3LED1 Pin=U2-26
+Added Pin To Net: NetName=P1_SMI_SEL Pin=U2-27
+Added Pin To Net: NetName=+3.3V Pin=U2-28
+Added Pin To Net: NetName=P1_XTAL_O Pin=U2-29
+Added Pin To Net: NetName=P1_XTAL_I Pin=U2-30
+Added Pin To Net: NetName=P1_SDA Pin=U2-31
+Added Pin To Net: NetName=P1_SCL Pin=U2-32
+Added Pin To Net: NetName=P1_RST Pin=U2-33
+Added Pin To Net: NetName=P1_1V Pin=U2-34
+Added Pin To Net: NetName=+3.3V Pin=U2-35
+Added Pin To Net: NetName=P1_ETH_AP Pin=U2-36
+Added Pin To Net: NetName=P1_ETH_AN Pin=U2-37
+Added Pin To Net: NetName=P1_ETH_BP Pin=U2-38
+Added Pin To Net: NetName=P1_ETH_BN Pin=U2-39
+Added Pin To Net: NetName=P1_1V Pin=U2-40
+Added Pin To Net: NetName=AGND Pin=U2-PAD
+Added Pin To Net: NetName=N04286 Pin=U3-1
+Added Pin To Net: NetName=N03411 Pin=U3-2
+Added Pin To Net: NetName=AGND Pin=U3-3
+Added Pin To Net: NetName=N03467 Pin=U3-4
+Added Pin To Net: NetName=N04493 Pin=U3-5
+Added Pin To Net: NetName=AGND Pin=U3-6
+Added Pin To Net: NetName=P0_XTAL_I Pin=Y1-1
+Added Pin To Net: NetName=AGND Pin=Y1-2
+Added Pin To Net: NetName=P0_XTAL_O Pin=Y1-3
+Added Pin To Net: NetName=AGND Pin=Y1-4
+Added Pin To Net: NetName=P1_XTAL_I Pin=Y2-1
+Added Pin To Net: NetName=AGND Pin=Y2-2
+Added Pin To Net: NetName=P1_XTAL_O Pin=Y2-3
+Added Pin To Net: NetName=AGND Pin=Y2-4
