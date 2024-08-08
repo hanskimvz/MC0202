@@ -86,17 +86,14 @@
       (Path "Design Resources")
       (Path "Design Resources"
          "d:\backup\hardwares\mc0202\schematic\mc0202s_v0.91.dsn")
-      (Path "Design Resources"
-         "d:\backup\hardwares\mc0202\schematic\mc0202s_v0.91.dsn" "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "d:\backup\hardwares\mc0202\schematic\mc0202s_v0.91.dsn" "SCHEMATIC1"
-         "5-POWER"))
+         "d:\backup\hardwares\mc0202\schematic\mc0202s_v0.91.dsn" "SCHEMATIC1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 385 0 583"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 385 0 583"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
@@ -121,8 +118,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 1792 156 615")
-        (Scroll "-33 479")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1792 156 615")
+        (Scroll "0 26")
         (Zoom "108")
         (Occurrence "/"))
       (Path "D:\BACKUP\HARDWARES\MC0202\SCHEMATIC\MC0202S_V0.91.DSN")
@@ -132,8 +129,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 182 1818 182 641")
-        (Scroll "0 0")
-        (Zoom "114")
+        (Scroll "-328 21")
+        (Zoom "57")
         (Occurrence "/"))
       (Path "D:\BACKUP\HARDWARES\MC0202\SCHEMATIC\MC0202S_V0.91.DSN")
       (Schematic "SCHEMATIC1")

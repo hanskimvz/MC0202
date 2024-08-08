@@ -1,0 +1,55 @@
+(ExpressProject "Design2"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\design2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (BEAD
+      (FullPartName "BEAD.Normal")
+      (LibraryName "D:\BACKUP\HARDWARES\HSBEST.OLB")
+      (DeviceIndex "0"))
+    (SSC377D
+      (FullPartName "SSC377D.Normal")
+      (LibraryName "D:\BACKUP\HARDWARES\HSBEST.OLB")
+      (DeviceIndex "0"))
+    ("CON 50P DUAL"
+      (FullPartName "CON 50P DUAL.Normal")
+      (LibraryName "D:\BACKUP\HARDWARES\HSBEST.OLB")
+      (DeviceIndex "0"))
+    ("CON 40P DUAL"
+      (FullPartName "CON 40P DUAL.Normal")
+      (LibraryName "D:\BACKUP\HARDWARES\HSBEST.OLB")
+      (DeviceIndex "0"))
+    (SSC377D_PH
+      (FullPartName "SSC377D_PH.Normal")
+      (LibraryName "D:\BACKUP\HARDWARES\HSBEST.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "D:\BACKUP\Hardwares\MC0202\design2.dsn")
+      (Path "Design Resources" "D:\BACKUP\Hardwares\MC0202\design2.dsn"
+         "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 464"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1665 26 733")
+        (Scroll "259 814")
+        (Zoom "240")
+        (Occurrence "/"))
+      (Path "D:\BACKUP\HARDWARES\MC0202\DESIGN2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

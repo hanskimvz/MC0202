@@ -84,12 +84,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\mc0202_v0.90.dsn")
-      (Path "Design Resources" ".\mc0202_v0.90.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\mc0202_v0.90.dsn" "Design Cache")
+      (Path "Design Resources"
+         "d:\backup\hardwares\mc0202\schematic\mc0202_v0.90.dsn")
+      (Path "Design Resources"
+         "d:\backup\hardwares\mc0202\schematic\mc0202_v0.90.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "d:\backup\hardwares\mc0202\schematic\mc0202_v0.90.dsn" "Design Cache")
       (Path "Outputs"))
-    (HierarchyView
-      (Path "SCHEMATIC1"))
+    (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
@@ -125,16 +127,6 @@
       (Path "D:\BACKUP\HARDWARES\MC0202\SCHEMATIC\MC0202_V0.90.DSN")
       (Schematic "SCHEMATIC1")
       (Page "3-RTL8367S"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1423 78 581")
-        (Scroll "-158 0")
-        (Zoom "60")
-        (Occurrence "/"))
-      (Path "D:\BACKUP\HARDWARES\MC0202\SCHEMATIC\MC0202_V0.90.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "4-Connector"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame

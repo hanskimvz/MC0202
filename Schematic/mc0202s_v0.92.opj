@@ -1,0 +1,71 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\mc0202s_v0.92.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (BAT54A
+      (FullPartName "BAT54A.Normal")
+      (LibraryName "D:\BACKUP\HARDWARES\HSBEST.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "H")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\mc0202s_v0.92.dsn")
+      (Path "Design Resources" ".\mc0202s_v0.92.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\mc0202s_v0.92.dsn" "SCHEMATIC1"
+         "3-RTL8213B"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 355 0 605"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1687 52 551")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\BACKUP\HARDWARES\MC0202\SCHEMATIC\MC0202S_V0.92.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "5-POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1847 208 711")
+        (Scroll "0 618")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path "D:\BACKUP\HARDWARES\MC0202\SCHEMATIC\MC0202S_V0.92.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "4-Connector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 234 1873 234 737")
+        (Scroll "184 483")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path "D:\BACKUP\HARDWARES\MC0202\SCHEMATIC\MC0202S_V0.92.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "2-RTL8213B"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1524 182 641")
+        (Scroll "0 497")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path "D:\BACKUP\HARDWARES\MC0202\SCHEMATIC\MC0202S_V0.92.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3-RTL8213B"))))
